@@ -67,4 +67,4 @@
 
 ---
 
-⭐️ *"Building tools and systems that make the world a little more connected — one bot, one proxy, one experiment at a time."*
+⭐️ *"Building tools and systems that make the world a little more connected one bot, one proxy, one experiment at a time."*
