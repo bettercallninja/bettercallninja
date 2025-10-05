@@ -21,8 +21,21 @@
 ---
 
 ## 🛠 Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,fastapi,django,react,postgres,redis,docker,linux,bash,nginx,tensorflow,pytorch&theme=dark" />
+  <a href="https://skillicons.dev">
+    <img 
+      src="https://skillicons.dev/icons?i=python,cpp,cs,fastapi,django,react,postgres,redis,docker,linux,bash,nginx,tensorflow,pytorch&theme=dark" 
+      alt="Tech Stack" 
+      style="width: 100%; max-width: 900px; border-radius: 12px; box-shadow: 0 0 15px rgba(0,0,0,0.4);"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <b>Languages & Frameworks:</b> Python · C++ · C# · FastAPI · Django · React <br/>
+  <b>Databases & Tools:</b> PostgreSQL · Redis · Docker · Linux · Bash · Nginx <br/>
+  <b>AI & ML:</b> TensorFlow · PyTorch
 </p>
 
 ---
