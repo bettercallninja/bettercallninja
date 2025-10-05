@@ -56,6 +56,10 @@
       <sub><b>React</b></sub>
     </td>
     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="55"/><br/>
+      <sub><b>React Native</b></sub>
+    </td>
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="55"/><br/>
       <sub><b>FastAPI</b></sub>
     </td>
@@ -72,6 +76,10 @@
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="55"/><br/>
       <sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="55"/><br/>
+      <sub><b>MongoDB</b></sub>
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=redis&theme=dark" width="55"/><br/>
