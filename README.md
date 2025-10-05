@@ -22,20 +22,23 @@
 
 ## 🛠 Tech Stack
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img 
-      src="https://skillicons.dev/icons?i=python,cpp,cs,fastapi,django,react,postgres,redis,docker,linux,bash,nginx,tensorflow,pytorch&theme=dark" 
-      alt="Tech Stack" 
-      style="width: 100%; max-width: 900px; border-radius: 12px; box-shadow: 0 0 15px rgba(0,0,0,0.4);"
+<div align="center" style="
+  padding: 26px;
+  border-radius: 16px;
+  background: linear-gradient(135deg, #0f172a 0%, #1f2937 30%, #0ea5e9 100%);
+  box-shadow: 0 12px 40px rgba(2, 8, 23, .45);
+">
+  <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
+    <img
+      src="https://skillicons.dev/icons?i=python,cpp,cs,fastapi,django,react,postgres,redis,docker,linux,bash,nginx,tensorflow,pytorch&theme=dark&perline=7"
+      alt="Python, C++, C#, FastAPI, Django, React, PostgreSQL, Redis, Docker, Linux, Bash, Nginx, TensorFlow, PyTorch"
+      style="width: 100%; max-width: 980px; border-radius: 12px; filter: drop-shadow(0 6px 20px rgba(0,0,0,.35));"
     />
   </a>
-</p>
+</div>
 
 <p align="center">
-  <b>Languages & Frameworks:</b> Python · C++ · C# · FastAPI · Django · React <br/>
-  <b>Databases & Tools:</b> PostgreSQL · Redis · Docker · Linux · Bash · Nginx <br/>
-  <b>AI & ML:</b> TensorFlow · PyTorch
+  <sub>Languages & Frameworks: Python · C++ · C# · FastAPI · Django · React &nbsp;|&nbsp; Databases & Tools: PostgreSQL · Redis · Docker · Linux · Bash · Nginx &nbsp;|&nbsp; AI/ML: TensorFlow · PyTorch</sub>
 </p>
 
 ---
