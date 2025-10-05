@@ -157,33 +157,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <!-- Stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=bettercallninja
-    &show_icons=true
-    &include_all_commits=true
-    &count_private=true
-    &cache_seconds=1800
-    &title_color=36BCF7
-    &text_color=c9d1d9
-    &icon_color=36BCF7
-    &bg_color=0d1117
-    &hide_border=true
-    &border_radius=12"
-    alt="GitHub stats for bettercallninja" height="180" />
-
-  <!-- Top Languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bettercallninja
-    &layout=compact
-    &langs_count=8
-    &cache_seconds=1800
-    &title_color=36BCF7
-    &text_color=c9d1d9
-    &bg_color=0d1117
-    &hide_border=true
-    &border_radius=12"
-    alt="Top languages for bettercallninja" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bettercallninja&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800&title_color=36BCF7&text_color=c9d1d9&icon_color=36BCF7&bg_color=0d1117&hide_border=true&border_radius=12" alt="GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bettercallninja&layout=compact&langs_count=8&cache_seconds=1800&title_color=36BCF7&text_color=c9d1d9&bg_color=0d1117&hide_border=true&border_radius=12" alt="Top languages" height="180"/>
 </p>
 
 ---
