@@ -22,82 +22,103 @@
 
 ## 🛠 Tech Stack
 
-<div align="center" style="
-  padding: 26px;
-  border-radius: 16px;
-  background: linear-gradient(135deg, #0f172a 0%, #1f2937 30%, #0ea5e9 100%);
-  box-shadow: 0 12px 40px rgba(2, 8, 23, .45);
-">
+### 💻 Languages
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" width="55"/><br/>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="55"/><br/>
+      <sub><b>C++</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=cs&theme=dark" width="55"/><br/>
+      <sub><b>C#</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=js&theme=dark" width="55"/><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="55"/><br/>
+      <sub><b>TypeScript</b></sub>
+    </td>
+  </tr>
+</table>
 
-<!-- Languages -->
-<h3 style="color:#36BCF7;">💻 Languages</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="60" /><br/>
-  <sub style="color:white;">Python</sub>
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="60" /><br/>
-  <sub style="color:white;">C++</sub>
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=cs&theme=dark" width="60" /><br/>
-  <sub style="color:white;">C#</sub>
-</p>
+### ⚙️ Frameworks & Libraries
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="55"/><br/>
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="55"/><br/>
+      <sub><b>FastAPI</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=django&theme=dark" width="55"/><br/>
+      <sub><b>Django</b></sub>
+    </td>
+  </tr>
+</table>
 
-<!-- Frameworks -->
-<h3 style="color:#36BCF7;">⚙️ Frameworks</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="60" /><br/>
-  <sub style="color:white;">FastAPI</sub>
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=django&theme=dark" width="60" /><br/>
-  <sub style="color:white;">Django</sub>
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" width="60" /><br/>
-  <sub style="color:white;">React</sub>
-</p>
+### 🗄️ Databases & Cache
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="55"/><br/>
+      <sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=redis&theme=dark" width="55"/><br/>
+      <sub><b>Redis</b></sub>
+    </td>
+  </tr>
+</table>
 
-<!-- Databases & Tools -->
-<h3 style="color:#36BCF7;">🧰 Databases & DevOps</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="60" /><br/>
-  <sub style="color:white;">PostgreSQL</sub>
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=redis&theme=dark" width="60" /><br/>
-  <sub style="color:white;">Redis</sub>
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="60" /><br/>
-  <sub style="color:white;">Docker</sub>
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="60" /><br/>
-  <sub style="color:white;">Linux</sub>
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=bash&theme=dark" width="60" /><br/>
-  <sub style="color:white;">Bash</sub>
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="60" /><br/>
-  <sub style="color:white;">Nginx</sub>
-</p>
+### 🛠️ DevOps & Infrastructure
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="55"/><br/>
+      <sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="55"/><br/>
+      <sub><b>Nginx</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="55"/><br/>
+      <sub><b>Linux</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=bash&theme=dark" width="55"/><br/>
+      <sub><b>Bash</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="55"/><br/>
+      <sub><b>Git</b></sub>
+    </td>
+  </tr>
+</table>
 
-<!-- AI/ML -->
-<h3 style="color:#36BCF7;">🧠 AI / ML</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="60" /><br/>
-  <sub style="color:white;">TensorFlow</sub>
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="60" /><br/>
-  <sub style="color:white;">PyTorch</sub>
-</p>
-
-</div>
+### 🧠 AI / Machine Learning
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="55"/><br/>
+      <sub><b>TensorFlow</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="55"/><br/>
+      <sub><b>PyTorch</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
