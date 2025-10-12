@@ -64,10 +64,6 @@
       <sub><b>FastAPI</b></sub>
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=numpy&theme=dark" width="55"/><br/>
-      <sub><b>FastAPI</b></sub>
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=django&theme=dark" width="55"/><br/>
       <sub><b>Django</b></sub>
     </td>
