@@ -29,28 +29,12 @@
       <img src="https://skillicons.dev/icons?i=python&theme=dark" width="55"/><br/>
       <sub><b>Python</b></sub>
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=js&theme=dark" width="55"/><br/>
-      <sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="55"/><br/>
-      <sub><b>TypeScript</b></sub>
-    </td>
   </tr>
 </table>
 
 ### ⚙️ Frameworks & Libraries
 <table align="center">
   <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="55"/><br/>
-      <sub><b>React</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="55"/><br/>
-      <sub><b>React Native</b></sub>
-    </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="55"/><br/>
       <sub><b>FastAPI</b></sub>
