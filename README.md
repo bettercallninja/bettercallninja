@@ -43,6 +43,10 @@
       <img src="https://skillicons.dev/icons?i=django&theme=dark" width="55"/><br/>
       <sub><b>Django</b></sub>
     </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=flask&theme=dark" width="55"/><br/>
+      <sub><b>Flask</b></sub>
+    </td>
   </tr>
 </table>
 
