@@ -29,6 +29,10 @@
       <img src="https://skillicons.dev/icons?i=python&theme=dark" width="55"/><br/>
       <sub><b>Python</b></sub>
     </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="55"/><br/>
+      <sub><b>Python</b></sub>
+    </td>
   </tr>
 </table>
 
