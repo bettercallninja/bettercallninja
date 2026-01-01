@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/bettercallninja">
-    <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Founder+%40bettercallninja;Python+%7C+AI+%7C+Telegram+Bots;Networking+%7C+Game+Backends;Always+Building+Something+Cool+🚀" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Founder+%40bettercallninja;Python+%7C+AI+%7C+Telegram+Bots;Networking+%7C+Game+%7C+Backend;Always+Building+Something+Cool+🚀" />
   </a>
 </p>
 
