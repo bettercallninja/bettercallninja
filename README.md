@@ -139,14 +139,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bettercallninja&show_icons=true&count_private=true&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&bg_color=0d1117" alt="bettercallninja's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bettercallninja&layout=compact&langs_count=8&hide_border=true&title_color=36BCF7&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
-</p>
-
----
-
 ## 🐍 Fun Touch
 <p align="center">
   <img src="https://github.com/bettercallninja/bettercallninja/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
